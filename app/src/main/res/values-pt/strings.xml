@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Somente Java</string>
+    <string name="name_edittext">Nome</string>
+    <string name="topping_textview">toppings</string>
+    <string name="whipped_cream_checkbox">Chanttily</string>
+    <string name="chocolate_checkbox">Chocolate</string>
+    <string name="quantity_textview">quantidade</string>
+    <string name="order_button">pedir</string>
+    <string name="order_summary_quantity">Quantidade: <xliff:g id="quantity" example="2">%d</xliff:g> copos</string>
+    <string name="order_summary_name">Nome: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="order_summary_whipped_cream">Adicional de chanttily? <xliff:g id="addWhippedCream" example="true">%s</xliff:g></string>
+    <string name="order_summary_chocolate">Adicional de chocolate? <xliff:g id="addChocolate" example="true">%s</xliff:g></string>
+    <string name="order_summary_price">Total: <xliff:g id="price" example="$10">%s</xliff:g></string>
+    <string name="thank_you">Muito obrigado!</string>
+    <string name="order_summary_email_subject">Somente Java para <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="no">Não</string>
+    <string name="yes">Sim</string>
+</resources>
